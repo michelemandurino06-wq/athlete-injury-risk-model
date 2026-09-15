@@ -1,6 +1,3 @@
-# athlete-injury-risk-model
-Probabilistic analysis of injury risk in professional athletes using Logistic Regression and MLE in Excel.
-
 # Probabilistic Analysis of Injury Risk in Professional Athletes 🏃‍♂️📊
 
 This repository contains the files for a statistical analysis project exploring the relationship between an athlete's workload and their risk of injury. 
