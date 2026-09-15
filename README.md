@@ -17,3 +17,16 @@ The objective of this project was to determine how variables such as age, weight
 
 ## 💡 Key Takeaway
 Building statistical models from scratch provides a deep understanding of the underlying mathematics (linear combinations, likelihood theory, numerical optimization) before relying on automated Python/R libraries.
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the terms of the **MIT License**. 
+
+You are free to:
+* **Use**: Use the code for private, academic, or commercial purposes.
+* **Modify**: Change and adapt the algorithms.
+* **Distribute**: Share and publish the original or modified code.
+
+See the full [LICENSE](LICENSE) file for legal details.
