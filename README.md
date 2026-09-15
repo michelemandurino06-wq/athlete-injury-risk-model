@@ -24,9 +24,4 @@ Building statistical models from scratch provides a deep understanding of the un
 
 This project is licensed under the terms of the **MIT License**. 
 
-You are free to:
-* **Use**: Use the code for private, academic, or commercial purposes.
-* **Modify**: Change and adapt the algorithms.
-* **Distribute**: Share and publish the original or modified code.
-
 See the full [LICENSE](LICENSE) file for legal details.
